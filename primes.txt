@@ -1,0 +1,2 @@
+<6.165 seconds> <9592 primes found> <454396537: sum of all primes> 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
